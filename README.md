@@ -14,4 +14,4 @@ Command name            	    | Usage
 ```git pull```                      | if somebody make changes on your branch git pull will download this to your
 ```git merge <branch name>```       | add all data from another branck to your
 
-
+#######
