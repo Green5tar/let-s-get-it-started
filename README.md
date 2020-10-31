@@ -1,5 +1,5 @@
 # let-s-get-it-started
-#Mikolka README #
+#Mikolka README
 
 #### Git commands ####
 Command name            	    | Usage
@@ -11,7 +11,7 @@ Command name            	    | Usage
 ``` ``` 			    | (git add .) to add all file which was changed
 ```git commit -m "<name>"```        | commit added files
 ```git push```                      | push yout commits to git hub 
-		``` ``` 	    | (if it's firs push on git branch use <git push --set-upstream origin <branch>>)
+``` ``` 	    		    | (if it's firs push on git branch use <git push --set-upstream origin <branch>>)
 ```git pull```                      | if somebody make changes on your branch git pull will download this to your
 ```git merge <branch name>```       | add all data from another branck to your
 
